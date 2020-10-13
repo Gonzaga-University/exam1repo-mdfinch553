@@ -16,6 +16,7 @@ public class Main {
     public static void main(String args[]) {
         System.out.println("Starting app");
         Adder adder = new Adder(10, 20);
+        Sysrem.out.println("Sup dude. This is a new print line.")
 
         System.out.println("App finished.");
     }
